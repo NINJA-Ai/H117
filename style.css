@@ -1,0 +1,34 @@
+.heading
+{
+width: 100%;
+font-size: 30px;
+color: black;
+box-shadow: 5px 5px 10px salmon;
+margin: 0px;
+}
+.heading_div
+{
+    float: none;
+    background: blue;
+    padding: 25px;
+    border-radius: 30px;
+    color: purple;
+    box-shadow: 5px 5px 10px red;
+}
+.heading_div2
+{
+    font-size: 20px;
+    background-color: purple;
+
+}
+.copy_right_footer
+{
+    color:blue;
+    position: fixed;
+    bottom: 0;
+    background-color: purple;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    line-height: 3;
+}
