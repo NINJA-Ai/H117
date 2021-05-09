@@ -9,26 +9,30 @@ margin: 0px;
 .heading_div
 {
     float: none;
-    background: blue;
+    background: lightgreen;
     padding: 25px;
     border-radius: 30px;
     color: purple;
-    box-shadow: 5px 5px 10px red;
+    box-shadow: 5px 5px 10px orange;
 }
 .heading_div2
 {
     font-size: 20px;
-    background-color: purple;
+    background-color: red;
 
 }
 .copy_right_footer
 {
-    color:blue;
+    color:red;
     position: fixed;
     bottom: 0;
-    background-color: purple;
+    background-color: lightgreen;
     width: 100%;
     text-align: center;
     align-items: center;
     line-height: 3;
+}
+canvas
+{
+    margin-top: 150px;
 }
